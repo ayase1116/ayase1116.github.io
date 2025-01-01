@@ -32,6 +32,18 @@ body {
     display: block;
 }
 
+/* Add media query for landscape orientation */
+@media (orientation: landscape) {
+    .image-section {
+        display: flex;
+        justify-content: center;
+    }
+
+    .full-width-image {
+        width: 50%;
+    }
+}
+
 /* Section Titles */
 .section-title {
     font-size: 1.8rem;

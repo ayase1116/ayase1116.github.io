@@ -5,13 +5,14 @@ const nextBtn = document.querySelector('.next-btn');
 // Static list of image file names
 const images = [
     'img/o-1263.jpg',
+    'img/85B34663-EF10-4C08-A721-EA9A6BC2561D.JPEG',
+    'img/DD46708D-7048-4FC8-8655-7819F07311CF.JPEG',
     'img/IMG_9866.JPG',
     'img/dep_Z097559.JPG',
     'img/IMG_6322.JPG',
     'img/00A6B679-9702-4937-8BFC-74E2004F77D3.JPG',
     'img/20240509_1623.JPG',
     'img/D91449FB-1FE9-46CB-9979-CC10FF418B60.JPG',
-    'img/IMG_0519.JPG',
     'img/IMG_4038.jpg',
     'img/IMG_5421.jpg',
     'img/IMG_5427.jpg',
